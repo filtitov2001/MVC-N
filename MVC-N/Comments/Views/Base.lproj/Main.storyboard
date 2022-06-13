@@ -56,8 +56,8 @@
                                             </constraints>
                                         </tableViewCellContentView>
                                         <connections>
-                                            <outlet property="label" destination="ZAu-HI-5lL" id="KCG-mx-r4o"/>
-                                            <outlet property="textView" destination="KhI-rj-tKv" id="cmO-zW-7JG"/>
+                                            <outlet property="label" destination="ZAu-HI-5lL" id="Wvp-PX-tNQ"/>
+                                            <outlet property="textView" destination="KhI-rj-tKv" id="dbr-Bz-zoj"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
@@ -76,9 +76,6 @@
                             <constraint firstItem="Vdi-7M-G2f" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="skz-KY-Tot"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="tableView" destination="Vdi-7M-G2f" id="IQW-GZ-SEf"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
