@@ -76,6 +76,9 @@
                             <constraint firstItem="Vdi-7M-G2f" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="skz-KY-Tot"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="tableView" destination="Vdi-7M-G2f" id="Ck3-MO-w1O"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
